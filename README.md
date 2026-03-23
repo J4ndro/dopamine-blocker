@@ -1,5 +1,7 @@
 # 🧠 DopamineLock: Fitness-Gated Social Media
 
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-23 at 20 40 23" src="https://github.com/user-attachments/assets/68ed6edd-bdda-458c-906e-720e0dc6b6ef" />
+
 **DopamineLock** es una aplicación de productividad para iOS diseñada para combatir la adicción a las redes sociales (especialmente TikTok/Instagram) mediante el refuerzo positivo y el ejercicio físico. 
 
 La premisa es simple: **Si quieres "dopamina digital", primero tienes que ganártela con esfuerzo físico.**
